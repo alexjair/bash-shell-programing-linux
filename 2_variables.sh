@@ -1,6 +1,6 @@
 # !/bin/bash
 # Programa para revisar la declaración de variables
-# Autor: Marco Toscano Freire - @martosfre
+# autor: Alexander Jair - alexjair@gmail.com
 
 opcion=0
 nombre=Marco
